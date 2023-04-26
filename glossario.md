@@ -14,3 +14,4 @@ PMBOK - O PMBOK (Project Management Body of Knowledge) é um guia de boas práti
 -Gerenciamento dos riscos do projeto
 -Gerenciamento das aquisições do projeto
 -Gerenciamento das partes interessadas do projeto
+Método XP = para jogos, programação em par para melhor qualidade do código.
